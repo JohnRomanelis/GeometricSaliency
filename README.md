@@ -11,7 +11,7 @@ This jupyter notebook is designed to assist students who are either new to Pytho
 
 ## Requirements
 
-I tried this with the following setup. Note that choosing different version may not work as Open3D is still an experimental library.
+I tried this with the following setup. Note that choosing different versions may not work as Open3D is still an experimental library.
 
 ```
 open3d==0.17.0
