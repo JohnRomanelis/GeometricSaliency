@@ -21,7 +21,7 @@ tensorboard==2.14.1
 ```
 
 ## Acknowledgements
-
+```
 @ARTICLE{9120202,
   author={Arvanitis, Gerasimos and Lalos, Aris S. and Moustakas, Konstantinos},
   journal={IEEE Transactions on Industrial Informatics}, 
@@ -31,3 +31,4 @@ tensorboard==2.14.1
   number={2},
   pages={1307-1317},
   doi={10.1109/TII.2020.3003455}}
+```
