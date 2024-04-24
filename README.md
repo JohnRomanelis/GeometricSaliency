@@ -32,3 +32,16 @@ tensorboard==2.14.1
   pages={1307-1317},
   doi={10.1109/TII.2020.3003455}}
 ```
+```
+@inproceedings {10.2312:3dor.20201160,
+booktitle = {Eurographics Workshop on 3D Object Retrieval},
+editor = {Schreck, Tobias and Theoharis, Theoharis and Pratikakis, Ioannis and Spagnuolo, Michela and Veltkamp, Remco C.},
+title = {{Fast Feature Curve Extraction for Similarity Estimation of 3D Meshes}},
+author = {Romanelis, Ioannis and Arvanitis, Gerasimos and Moustakas, Konstantinos},
+year = {2020},
+publisher = {The Eurographics Association},
+ISSN = {1997-0471},
+ISBN = {978-3-03868-126-7},
+DOI = {10.2312/3dor.20201160}
+}
+```
