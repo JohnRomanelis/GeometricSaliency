@@ -1,7 +1,19 @@
 # Geometric Saliency
 
-This jupyter notebook is designed to assist students who are either new to Python or the fild of Computetional Geometry and Geometry Processing. The goal is to provide a practical and hands-on approach to undestand basic principles by implementing a straightforward yet useful algorithm. 
+<--!This jupyter notebook is designed to assist students who are either new to Python or the fild of Computetional Geometry and Geometry Processing. The goal is to provide a practical and hands-on approach to undestand basic principles by implementing a straightforward yet useful algorithm. 
+-->
 
+## Introduction
+
+This Jupyter Notebook is designed for students—whether undergraduate, graduate, or enthusiasts—who are diving into the fields of Computational Geometry and Geometry Processing. It offers a **practical, hands-on approach** to understanding key principles by guiding you through the implementation of a **straightforward yet effective algorithm** for detecting salient features on 3D meshes.
+
+Throughout this notebook, you’ll work with several essential Python libraries:
+- **Open3D**: A versatile toolkit for 3D data processing.
+- **NumPy**: The cornerstone of numerical computation in Python.
+- **Numba**: Enhances Python code performance through just-in-time compilation.
+- **PyTorch**: A powerful framework for deep learning and general computation.
+
+This notebook is crafted to help you build a solid foundation in computational geometry, with practical applications in areas like 3D shape recognition, surface analysis, and object segmentation. It’s designed to be both informative and engaging, providing a clear path to mastering these essential concepts.
  
 <br/><br/>
 <div align="center">
