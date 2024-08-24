@@ -1,7 +1,10 @@
 # Geometric Saliency
 
-<--!This jupyter notebook is designed to assist students who are either new to Python or the fild of Computetional Geometry and Geometry Processing. The goal is to provide a practical and hands-on approach to undestand basic principles by implementing a straightforward yet useful algorithm. 
--->
+<br/><br/>
+<div align="center">
+    <img src = "./resources/img/saliency_vis.png", width = 420, aligh=center />
+</div>
+<br/><br/>
 
 ## Introduction
 
@@ -15,11 +18,7 @@ Throughout this notebook, you’ll work with several essential Python libraries:
 
 This notebook is crafted to help you build a solid foundation in computational geometry, with practical applications in areas like 3D shape recognition, surface analysis, and object segmentation. It’s designed to be both informative and engaging, providing a clear path to mastering these essential concepts.
  
-<br/><br/>
-<div align="center">
-    <img src = "./resources/img/saliency_vis.png", width = 420, aligh=center />
-</div>
-<br/><br/>
+
 
 ## Requirements
 
